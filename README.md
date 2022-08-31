@@ -1,7 +1,7 @@
-- 👋 Hi, I’m vikas
-- 👀 I’m interested in ...software developement
-- 🌱 I’m currently learning ...C++
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I am vikas, I am a C++, Java and Javascript Programmer
+- 👀 I’m interested in ... development of Web, Apps and Software
+- 🌱 I’m currently learning ...React JS
+- 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me ...call me at 7318017620
 - 
 
