@@ -1,4 +1,5 @@
 - 👋 Hi, I am vikas, I am a Web developer and C++ Programmer 
+   HTML, CSS, Bootstrap, Git, GitHub and JavaScript, C++ and Java
 - 👀 I’m interested in ... development of Web, Apps and Software
 - 🌱 I’m currently learning ... Full stack development
 - 💞️ I’m looking to collaborate on a project in Front End development
